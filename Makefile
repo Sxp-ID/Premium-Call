@@ -3,7 +3,7 @@ install:
 	@clear
 	apt-get install bash curl wget jq
 	apt-get install python python-pip nano
-	apt-get install clang ncurses-utils
+	apt-get install clang ncurses-utils bc
 	python -m pip install -r data/requirements.txt
 	@gcc main.c -o main
 	@clear
