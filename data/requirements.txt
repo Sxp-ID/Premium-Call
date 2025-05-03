@@ -1,9 +1,0 @@
-bs4
-rich
-httpie
-blessed
-requests
-inquirer
-fake-useragent
-beautifulsoup4
-requests-toolbelt
