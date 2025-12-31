@@ -21,7 +21,8 @@ $ make run
 ## Full tutorialnya?
 - Link video v1 (old) <code><a href="https://youtu.be/zKcu8idYJgk?si=J7Lr6FJRb97xHiDb">klik disini</a></code>
 - Link video v2 (old) <code><a href="https://youtu.be/wHTkBTSJ-dM?si=EABZoqjDhKYHSAR-">klik disini</a></code>
-- Link video v3 (new) <code><a href="https://youtu.be/Q5T58DnM61Y?si=T5XnbcLSpwhx7KHZ">klik disini</a></code>
+- Link video v3 (old) <code><a href="https://youtu.be/Q5T58DnM61Y?si=T5XnbcLSpwhx7KHZ">klik disini</a></code>
+- Link video v4 (new) <code><a href="https://youtube.com/@freetutorialofficial">klik disini</a></code>
 - Subs yt admin <code><a href="https://youtube.com/@freetutorialofficial">FREE TUTORIAL</a></code>
 <div align="center">
 
